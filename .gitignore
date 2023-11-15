@@ -30,3 +30,6 @@ fp-info-cache
 
 # Lock file
 *.lck
+
+# Zipped gerber files
+*.zip
